@@ -1,0 +1,29 @@
+[
+    {
+        "associateId": "12345",
+        "associateName": "john",
+        "startTime": "10:20",
+        "endTime": "14:40",
+        "reportedDate": "10-04-2019",
+        "timeType": "child-care",
+        "fullDay":"false"
+    },
+    {
+        "associateId": "23456",
+        "associateName": "smith",
+        "startTime": "09:20",
+        "endTime": "10:40",
+        "reportedDate": "10-04-2019",
+        "timeType": "Sick",
+        "fullDay":"false"
+    },
+    {
+        "associateId": "12335",
+        "associateName": "wills",
+        "startTime": "10:20",
+        "endTime": "11:40",
+        "reportedDate": "10-04-2019",
+        "timeType": "halfday",
+        "fullDay":"false"
+    }
+]
